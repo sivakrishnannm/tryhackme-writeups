@@ -1,2 +1,9 @@
-# tryhackme-writeups
-My penetration testing practice labs and writeups while training to become a Junior Pentester.
+# TryHackMe Writeups
+
+Hands-on penetration testing labs and walkthroughs while training to become a Junior Pentester.
+
+## Rooms Completed
+- Vulnversity
+- Basic Pentesting
+- Kenobi
+- Linux PrivEsc
