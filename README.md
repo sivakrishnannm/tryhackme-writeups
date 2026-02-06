@@ -7,3 +7,4 @@ Hands-on penetration testing labs and walkthroughs while training to become a Ju
 - Basic Pentesting
 - Kenobi
 - Linux PrivEsc
+- Linux PrivEsc Arena
